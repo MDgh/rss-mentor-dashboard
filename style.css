@@ -1,0 +1,45 @@
+body {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000; 
+}
+
+.field-notice {
+  text-align: center;
+}
+
+.select-input {
+  max-width: 450px;
+  margin: 0 auto;
+}
+
+.mentor-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.mentor-wrap-title,
+.mentor-wrap-name {
+  border: 1px solid black;
+  padding: 5px 20px;
+}
+
+.table-tasks {
+  margin: 20px auto 0;
+}
+
+.table-head {
+  padding: 5px 15px;
+  border: 1px solid #000000;
+}
+
+.table-task-name {
+  padding: 3px 10px;
+}
+
+
